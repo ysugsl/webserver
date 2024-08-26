@@ -1,3 +1,0 @@
-/home/msi/workspace/webserver/cmake-build-debug/CMakeFiles/Webserver.dir
-/home/msi/workspace/webserver/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/msi/workspace/webserver/cmake-build-debug/CMakeFiles/rebuild_cache.dir
